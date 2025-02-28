@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## [Video Walkthrough](https://github.com/MaiwandR/IOS_101_Project_1_Wordle/blob/main/video1753570483.mp4)
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
